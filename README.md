@@ -15,6 +15,26 @@ El manual diferencia entre prácticas (roles, artefactos, eventos) y principios 
 <img width="690" height="309" alt="Diagrama sin título drawio (2)" src="https://github.com/user-attachments/assets/be6c90eb-31a5-47fc-87d0-67461173a7ba" />
 
 ### Preguntas de comprensión
+
+1.	¿Cuál es la principal diferencia entre la gestión predictiva y la gestión ágil?
+La gestión predictiva se centra en planificar al detalle al inicio y controlar el cumplimiento de plazos, costes y funcionalidades. La gestión ágil prioriza entregar valor de forma temprana y continua, adaptándose a los cambios en entornos inciertos.
+2.	¿Qué cuatro valores establece el Manifiesto Ágil?
+Los cuatro valores son:
+•	Personas e interacción sobre procesos y herramientas.
+•	Software funcionando sobre documentación extensa.
+•	Colaboración con el cliente sobre negociación contractual.
+•	Respuesta al cambio sobre seguimiento de un plan.
+
+3.	¿De dónde proviene el término “scrum” y qué metáfora representa?
+El término proviene del rugby, donde “scrum” es la formación en la que el equipo avanza unido hacia el balón. Fue usado por Nonaka y Takeuchi para describir equipos autogestionados que trabajan de forma concurrente e incremental.
+4.	¿Cuáles son los cinco eventos que componen el ciclo scrum?
+Los cinco eventos son:
+•	Sprint (iteración de trabajo, normalmente ≤ 4 semanas).
+•	Reunión de planificación del sprint.
+•	Scrum diario (reunión diaria, de pie, ≤15 min).
+•	Revisión del sprint (demo del incremento).
+•	Retrospectiva del sprint (mejora continua).
+
 ### Enlaces de interes
 
 ## Capitulo 02: El ciclo Scrum
