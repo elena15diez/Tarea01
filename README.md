@@ -11,6 +11,36 @@ Dentro de estos enfoques nace Scrum, inspirado en un modelo de equipos autogesti
 El manual diferencia entre prácticas (roles, artefactos, eventos) y principios y valores, destacando que sin estos últimos, las prácticas no generan verdadera agilidad.
 
 ### Glosario de terminos
+Antítesis:
+Enfoque que surge como oposición a otro modelo previo; en el libro, la gestión ágil aparece como antítesis de la gestión predictiva.
+
+Gestión predictiva:
+Modelo de gestión basado en la planificación inicial completa del proyecto, donde el éxito consiste en cumplir plazos, costes y alcance definidos desde el inicio.
+
+Gestión ágil:
+Modelo de gestión orientado a la adaptación al cambio, que desarrolla el producto de forma progresiva mediante entregas frecuentes y mejora continua.
+
+Ciclo de cascada:
+Modelo secuencial de desarrollo en el que las fases del proyecto se realizan una tras otra sin solaparse.
+
+Gestión evolutiva:
+Modelo que busca entregar rápidamente un producto mínimo viable y aumentar su valor de forma continua mediante evolución progresiva.
+
+Ingeniería concurrente:
+Enfoque en el que las distintas fases del desarrollo se realizan de forma simultánea y solapada para acelerar el proceso.
+
+Ingeniería de procesos:
+Disciplina que basa la calidad del producto en la definición y control de procesos, considerando que estos determinan el resultado final.
+
+Desarrollo incremental:
+Estrategia de desarrollo en la que el producto se construye y entrega por partes funcionales llamadas incrementos.
+
+Timeboxing:
+Técnica que consiste en fijar periodos de tiempo cerrados para realizar una tarea o iteración, manteniendo un ritmo constante de trabajo.
+
+Avance iterativo:
+Forma de desarrollo basada en ciclos repetitivos en los que se construyen y mejoran sucesivas versiones del producto.
+
 ### Diagrama conceptual
 <img width="690" height="309" alt="Diagrama sin título drawio (2)" src="https://github.com/user-attachments/assets/be6c90eb-31a5-47fc-87d0-67461173a7ba" />
 
